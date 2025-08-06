@@ -41,7 +41,7 @@ A personal portfolio website showcasing profile, projects, and contact details. 
    git clone https://github.com/your-username/OIBSIP.git
 2. Navigate to the desired project folder:
 cd OIBSIP/Landing_page
-# or
+or
 cd OIBSIP/Portfolio_website
 3. Open index.html in your browser or editor.
 
