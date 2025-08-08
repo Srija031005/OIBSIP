@@ -34,6 +34,15 @@ A personal portfolio website showcasing profile, projects, and contact details. 
 
 ---
 
+### 3. 🌡️ Temperature Converter
+A simple and interactive temperature converter tool that allows users to convert between Celsius, Fahrenheit, and Kelvin. Built using HTML, CSS, and JavaScript.
+
+🔗 [View Folder](Temperature_Converter)  
+📂 Contents:
+- `index.html`
+
+---
+
 ## 🚀 How to Run the Projects
 
 1. Clone this repository:
@@ -44,12 +53,15 @@ A personal portfolio website showcasing profile, projects, and contact details. 
     cd OIBSIP/Landing_page
     or
     cd OIBSIP/Portfolio_website
+    or
+    cd OIBSIP/Temperature_Converter
 
 3. Open index.html in your browser or editor.
 
 ## 🛠️ Tools Used
 HTML5
 CSS3
+JavaScript (for interactive projects)
 Visual Studio Code
 
 ## 📌 Internship Info
